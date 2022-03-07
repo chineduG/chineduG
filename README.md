@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Gabriel
-#### I am a Mobile Developer/Back-End Developer
-![I am a Mobile Developer/Back-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a Mobile/Back-End Developer
 
 I really love trying new technologies
 
