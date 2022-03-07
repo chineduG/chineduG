@@ -9,7 +9,7 @@ Skills: Dart/ Flutter / Firebase / Node.js / Mongo DB
 - 👯 I’m looking to collaborate on Open Source projects 
 - 💬 Ask me about Flutter & Dart 
 - 📫 How to reach me: investorgbriel@gmail.com 
-- 😄 Pronouns: he/Him/Prince 
+- 😄 Pronouns: he/Him/Diplomat 
 - ⚡ Fun fact: If a spider is a web developer, what am I? 
 
 
