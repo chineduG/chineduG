@@ -10,7 +10,7 @@ Skills: Dart/ Flutter / Firebase / Node.js / Mongo DB
 - 💬 Ask me about Flutter & Dart 
 - 📫 How to reach me: investorgbriel@gmail.com 
 - 😄 Pronouns: he/Him/Diplomat 
-- ⚡ Fun fact: If a spider is a web developer, what am I? 
+- ⚡ Fun fact: One successful code doesn’t make you a great programmer.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chineduG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saint_gbriel0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saint_gabriel0)  
