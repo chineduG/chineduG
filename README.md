@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Gabriel
-#### I am a Mobile/Back-End Developer
+#### I am a Back-End/Smart Contract Developer
 
 I really love trying new technologies
 
-Skills: Dart/ Flutter / Firebase / Node.js / Mongo DB
+Skills: MERN STACK
 
 - 🌱 I’m currently learning Smart Contracts 
 - 👯 I’m looking to collaborate on Open Source projects 
