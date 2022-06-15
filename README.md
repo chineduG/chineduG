@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gabriel
-#### I am a Back-End/Smart Contract Developer
+#### A Back-End/Smart Contract Developer
 
 I really love trying new technologies
 
@@ -7,7 +7,7 @@ Skills: MERN STACK
 
 - 🌱 I’m currently learning Smart Contracts 
 - 👯 I’m looking to collaborate on Open Source projects 
-- 💬 Ask me about Flutter & Dart 
+- 💬 Ask me about Node and Express js
 - 📫 How to reach me: investorgbriel@gmail.com 
 - 😄 Pronouns: he/Him/Diplomat 
 - ⚡ Fun fact: One successful code doesn’t make you a great programmer.
